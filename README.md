@@ -1,2 +1,2 @@
 # Portfolio
-Sully's portfolio includes both the HyperionDev Bootcamp &amp; self-paced, Python projects.
+Sully's portfolio includes both the HyperionDev Bootcamp and self-paced, Python projects.
